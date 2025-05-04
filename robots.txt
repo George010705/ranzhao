@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://github.com/George010705/ranzhao/al-folio/sitemap.xml
